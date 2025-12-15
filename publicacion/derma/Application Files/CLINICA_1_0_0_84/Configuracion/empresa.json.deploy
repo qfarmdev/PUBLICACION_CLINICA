@@ -1,0 +1,9 @@
+{
+  "EmpresaId": 3,
+  "Nombre": "Derma",
+  "ApiBaseUrl": "http://apidermostyle.vinali.pe/",
+  "Icono": "icono.ico",
+  "Logo": "logo.png",
+  "ImgLogin": "img-login.jpeg",
+  "ImgMain": "main.png"
+}
