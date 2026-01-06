@@ -1,9 +1,0 @@
-{
-  "EmpresaId": 1,
-  "Nombre": "Vinali",
-  "ApiBaseUrl": "http://apiqfclinica.qf.com.pe/",
-  "Icono": "icono.ico",
-  "Logo": "logo.png",
-  "ImgLogin": "img-login.jpeg",
-  "ImgMain": "main.png"
-}
