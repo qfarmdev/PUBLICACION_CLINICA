@@ -1,9 +1,0 @@
-{
-  "EmpresaId": 2,
-  "Nombre": "Care",
-  "ApiBaseUrl": "http://apifsclinica.fys.pe/",
-  "Icono": "icono.ico",
-  "Logo": "logo.png",
-  "ImgLogin": "img-login.jpeg",
-  "ImgMain": "main.png"
-}
